@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Permanent+Marker');
+
+.bindex h1{
+        font-family: 'fantasy';
+	color:blue;
+	font-size:59px;
+	width:100%;
+	text-align:center;
+}
+.bindex div{
+        font-family: 'fantasy';
+	width:100%;
+	text-align:center;	
+	display:flex;
+	justify-content:space-around;
+
+}
+.bindex a{
+	text-decoration:none;
+	color:black;
+	font-family: 'fantasy', cursive;
+	font-size:35px;
+		
+}
+.bindex div a:hover{
+	text-decoration:none;
+	color:blue;
+	font-family: 'fantasy', cursive;
+	font-size:35px;
+		
+}
+/*---------------------------entrar.php--------------------*/
+
+.bentrar h1{
+font-family: 'fantasy', cursive;
+	color:red;
+	font-size:75px;
+	width:100%;
+	text-align:center;
+}
+.bentrar div{
+font-family: 'fantasy', cursive;
+	color:black;
+	
+	
+	font-size:35px;
+}
+#for{
+	display:flex;	
+	justify-content:space-around;
+	width:100%;
+}
+.bentrar input[type=text]{
+
+	font-size:20px;
+		font-family: 'fantasy', cursive;
+	padding:5px;
+
+	
+}
+.bentrar input[type=password]{
+
+	font-size:20px;
+	font-family: 'fantasy', cursive;
+	padding:5px;
+
+}
+
+#entrar{
+font-family: 'fantasy', cursive;
+	font-size:20px;
+	background-color:#FFF;
+	font-weight:bold;
+	color:red;
+
+
+}
+#boton1{
+	width:100%;	
+	text-align:center;
+	margin-top:30px;
+}
+
+/*----------------------*/
+
+/*---------------------*/
+
+/*--------------registrar----------------*/
+
+.bregistrar h1{
+	font-family: 'fantasy', cursive;
+	color:red;
+	font-size:75px;
+	width:100%;
+	text-align:center;
+}
+
+#div1{
+	display:flex;
+		justify-content:space-around;
+		font-size:20px;
+	font-family: 'fantasy', cursive;
+}
+.bregistrar input[type=text]{
+
+	font-size:20px;
+		font-family: 'fantasy', cursive;
+	padding:5px;
+
+	
+}
+.bregistrar input[type=password]{
+
+	font-size:20px;
+	font-family: 'fantasy', cursive;
+	padding:5px;
+
+}
+
+/*------------------Panel--------------------*/
+.bpanel h2{
+    font-family: 'fantasy', cursive;
+	color:red;
+	font-size:75px;
+	
+    text-decoration: none;
+    
+}
